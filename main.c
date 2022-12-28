@@ -1,7 +1,11 @@
 /*
-	SOKOBAN Console by Marsel Yuldashev
+	Sokoban Console by Marsel Yuldashev
+
+	From Wikipedia:
+	Sokoban is a puzzle video game in which the player pushes boxes around in a warehouse, trying to get them to storage locations.
+
 */
-#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
